@@ -13,7 +13,7 @@ INSTALACJA I URUCHOMIENIE
 1. Terminal
    1) Pobierz pliki projektu - rekomendacje.pl oraz gui.py - i zapisz je w tym samym folderze.
    2) Otwórz terminal i przejdź do lokalizacji, w której znajduje się folder z projektem poprzez komendę "cd".
-      cd sciezka/do/konkretnego/folderu
+      -> cd sciezka/do/konkretnego/folderu
    3) Jeśli nie posiadasz biblioteki pyswip, zainstaluj ją.
       pip install pyswip
    4) Uruchom aplikację.
