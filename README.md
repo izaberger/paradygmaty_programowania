@@ -4,9 +4,9 @@ Paradygmaty programowania - projekt
 Projekt to aplikacja łącząca programowanie w Prologu i Pythonie, która pomaga w wyborze kierunku studiów na podstawie preferencji użytkownika. System analizuje zainteresowania, ulubione przedmioty, cechy osobowości oraz preferowane style nauki, aby zarekomendować najlepiej dopasowane kierunki studiów.
 
 Wykorzystane paradygmaty programowania
-Programowanie logiczne (Prolog) - wykorzystane do reprezentacji wiedzy o kierunkach studiów i algorytmów dopasowania
-Programowanie obiektowe (Python) - zastosowane w implementacji interfejsu użytkownika
-Programowanie deklaratywne - widoczne w części Prologowej, gdzie opisujemy "co" chcemy osiągnąć, a nie "jak"
+- Programowanie logiczne (Prolog) - wykorzystane do reprezentacji wiedzy o kierunkach studiów i algorytmów dopasowania
+- Programowanie obiektowe (Python) - zastosowane w implementacji interfejsu użytkownika
+- Programowanie deklaratywne - widoczne w części Prologowej, gdzie opisujemy "co" chcemy osiągnąć, a nie "jak"
 
 INSTALACJA I URUCHOMIENIE
 
