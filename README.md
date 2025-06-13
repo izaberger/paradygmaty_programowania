@@ -15,9 +15,9 @@ INSTALACJA I URUCHOMIENIE
    2) Otwórz terminal i przejdź do lokalizacji, w której znajduje się folder z projektem poprzez komendę "cd".
       - cd sciezka/do/konkretnego/folderu
    3) Jeśli nie posiadasz biblioteki pyswip, zainstaluj ją.
-      pip install pyswip
+      - pip install pyswip
    4) Uruchom aplikację.
-      python gui.py
+      - python gui.py
 
 2. Środowisko IDE (np. Visual Studio Code)
    1) Jeśli nie posiadasz biblioteki pyswip, zainstaluj ją.
